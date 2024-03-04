@@ -5,7 +5,7 @@
 To run the test :
 ```bash
 $ composer install
-$ ./vendor/bin/phpunit
+$ ./vendor/bin/phpunit tests/
 ```
 
 ## Environment
